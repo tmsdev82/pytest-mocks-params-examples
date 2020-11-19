@@ -1,0 +1,10 @@
+venv
+.vscode
+.env
+cov_html
+.coverage
+*.log
+data
+.pytest_cache
+**/__pycache__
+**/*.egg-info
